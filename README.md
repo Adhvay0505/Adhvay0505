@@ -3,7 +3,9 @@
 </div>
 
 
-<p align="left">👋 About Me<br><br>I'm Adhvay — I build tools with Go, Python, and C. I’m passionate about cybersecurity and enjoy working with Linux, reverse engineering, and incident analysis while exploring different areas of cybersecurity</p>
+### 👋 About Me
+
+I'm passionate about building tools and solving complex problems in the cybersecurity domain. I enjoy working with Linux, reverse engineering, and incident analysis, and I'm always exploring new areas within the field.
 
 ###
 
