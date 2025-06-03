@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="300" src="https://repository-images.githubusercontent.com/269974752/5d4ffb00-7351-11eb-9a82-cb2a73d47021"  />
-</div>
-
-###
-
 <p align="left">👋 About Me<br><br>I'm Adhvay — I build tools with Go, Python, and C. I’m passionate about cybersecurity and enjoy working with Linux, reverse engineering, and incident analysis while exploring different areas of cybersecurity</p>
 
 ###
