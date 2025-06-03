@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./images/a86e8aab-3d0f-4ff3-9b07-b159249f36a9.png" alt="Banner" style="max-width: 100%; height: auto;" />
+</div>
+
 <p align="left">👋 About Me<br><br>I'm Adhvay — I build tools with Go, Python, and C. I’m passionate about cybersecurity and enjoy working with Linux, reverse engineering, and incident analysis while exploring different areas of cybersecurity</p>
 
 ###
