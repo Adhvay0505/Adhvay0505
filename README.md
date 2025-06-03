@@ -54,8 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Adhvay0505/Adhvay0505/output/snake.svg" alt="Snake animation" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adhvay0505/Adhvay0505/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adhvay0505/Adhvay0505/output/github-snake.svg" />
