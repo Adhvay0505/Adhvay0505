@@ -20,7 +20,7 @@ I'm passionate about building tools and solving complex problems in the cybersec
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
-
+# Technologies I've worked with
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
