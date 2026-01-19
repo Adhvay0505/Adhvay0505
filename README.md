@@ -9,8 +9,7 @@ I'm passionate about building tools and solving complex problems in the cybersec
 
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Adhvay0505&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Adhvay0505&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adhvay0505&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
