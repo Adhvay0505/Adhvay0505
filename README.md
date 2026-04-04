@@ -5,7 +5,7 @@
 
 ### 👋 About Me
 
-I'm passionate about building tools and solving complex problems in the cybersecurity domain. I'm always exploring new areas within the field.
+I'm passionate about building tools and solving complex problems in the cybersecurity domain. I'm always exploring new areas within the field. I build open-source cybersecurity software.
 
 ###
 # 📊 GitHub Stats:
